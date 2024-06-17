@@ -5,7 +5,7 @@
 #include <stdbool.h>
 #include <math.h>
 #include </home/simon/build_prime_buffer.c>
-#include </home/simon/fastmodinvpow2fns.c>
+#include </home/simon/fastmodinvpow2fns.c> // Find here https://github.com/FastAsChuff/Fast-Modular-Inverse-Modulo-Powers-Of-2/blob/main/fastmodinvpow2fns.c
 #include </home/simon/fastprimedivs200k.c>
 #include </home/simon/squarefreefns.c>
 
